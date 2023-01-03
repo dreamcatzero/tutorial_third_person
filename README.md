@@ -1,5 +1,6 @@
 # UE5 - Tutorial -   _third person shooting using blueprint_ 
 
+![thirdPerson](https://user-images.githubusercontent.com/121831113/210415919-ed3f2c76-eff9-4235-bdf9-44e28b6da69a.png)
 
 
 ## **Requirements:**
